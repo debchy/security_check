@@ -12,7 +12,6 @@
     "@fancyapps/ui": "^5.0.24",
     "axios": "^1.6.5",
     "bootstrap": "^4.6.2",
-    "bunyan": "^1.8.15",
     "compression": "^1.7.4",
     "dompurify": "^2.3.8",
     "dotenv": "^16.0.2",
